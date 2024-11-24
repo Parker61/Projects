@@ -1,0 +1,53 @@
+Month,Payment type,Tips average amount
+2020-01,Cash,0.0
+2020-01,Credit card,2.99
+2020-01,Dispute,0.02
+2020-01,No charge,0.0
+2020-01,Unknown,0.0
+2020-02,Cash,0.0
+2020-02,Credit card,2.97
+2020-02,Dispute,0.02
+2020-02,No charge,0.0
+2020-03,Cash,0.0
+2020-03,Credit card,2.9
+2020-03,Dispute,-0.04
+2020-03,No charge,0.0
+2020-04,Cash,0.0
+2020-04,Credit card,2.52
+2020-04,Dispute,0.01
+2020-04,No charge,0.01
+2020-05,Cash,0.0
+2020-05,Credit card,2.59
+2020-05,Dispute,0.01
+2020-05,No charge,0.0
+2020-06,Cash,0.0
+2020-06,Credit card,2.74
+2020-06,Dispute,0.03
+2020-06,No charge,0.0
+2020-06,Unknown,0.0
+2020-07,Cash,0.0
+2020-07,Credit card,2.65
+2020-07,Dispute,0.01
+2020-07,No charge,0.0
+2020-08,Cash,0.0
+2020-08,Credit card,2.66
+2020-08,Dispute,0.0
+2020-08,No charge,-0.02
+2020-08,Unknown,0.0
+2020-09,Cash,0.0
+2020-09,Credit card,2.65
+2020-09,Dispute,0.01
+2020-09,No charge,0.0
+2020-10,Cash,0.0
+2020-10,Credit card,2.63
+2020-10,Dispute,0.0
+2020-10,No charge,0.0
+2020-11,Cash,0.0
+2020-11,Credit card,2.62
+2020-11,Dispute,0.0
+2020-11,No charge,0.0
+2020-11,Unknown,0.0
+2020-12,Cash,0.0
+2020-12,Credit card,2.65
+2020-12,Dispute,0.02
+2020-12,No charge,0.0
